@@ -1,0 +1,22 @@
+*{
+    padding: 0px;
+    margin: 0px;
+
+    /* background-image:; */
+}
+/* .Home{
+    margin-top: 500px;
+    /* height: 400px;
+    width: 100%; */
+    /* background-image: url(./wp8430794.jpg); */
+.left{
+    width: 60%;
+    display: inline-block;
+
+}
+.right{
+
+    width: 40%;
+    float: right;
+
+}
