@@ -1,0 +1,63 @@
+*{
+    /* background-color:cornsilk; */
+    /* background-image: url; */
+}
+
+.Main{
+
+    display: flex;
+    flex-direction: column;
+    /* width: 100%; */
+    height: 50vh;
+    width: 100ch;
+    /* margin: auto; */
+}
+.Bike{
+
+    /* background-color: darkblue; */
+    width: 100%;
+    /* height: 50vh; */
+    /* margin: auto; */
+    /* background-image: url("./bikeImage.jpg") ;width: 10cm;height: 6cm; */
+}
+.Bike_Image{
+    margin-left: 80px;
+}
+
+.Auto{
+
+    /* background-color: aqua; */
+    width: 100%;
+    height: 50vh;
+    /* margin: auto; */
+    /* background-image: url("./Auto.jpg");width: 10cm;height: 6cm;margin-right: ; */
+    
+}
+Auto_Image{
+    margin-left: 80px;
+}
+.S_Main{
+
+    display: flex;
+    flex-direction: row;
+    height: 50vh;
+    width: 100ch;
+}
+.Car{
+
+    /* background-color:darkgoldenrod; */
+    width: 100%;
+    height: 50vh;
+    background-image: url("./Car.jpg");width: 7.08cm;height: 6cm;
+    /* margin: auto; */
+
+}
+.Mini_Bus{
+
+    background-color: brown;
+    width: 100%;
+    height: 50vh;
+    background-image: url("./MiniBus.jpg");width: 6cm;
+    /* margin: auto; */
+
+}
